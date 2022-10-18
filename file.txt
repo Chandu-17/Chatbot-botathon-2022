@@ -1,0 +1,21 @@
+    "Hello",
+    "Hi there!",
+    "Hi",
+    "Hi!",
+    "How are you doing?",
+    "I'm doing great.",
+    "That is good to hear",
+    "Thank you.",
+    "You're welcome.",
+    'What is your name?', 'My name is ChatBot',
+    'Who created you?', 'Mohan and likith '
+    "Tell me about yourself",
+    "My name is Mohan and likith. I am a final year electronic engineering student at KARE",
+    "Contact",
+    "Email : Kalasalingam@gmail.com, Mobile number : +91 9021393816 Location : Madurai, Tamilnadu",
+    "Education",
+    "Bachelor of Engineering (B.E), '\n'
+    Electronic & communication Engineering\n KARE srivilliputtur'\n'
+    2019 - 2023 '\n'
+    CGPA: 8.99/10,
+    ""
